@@ -1,0 +1,30 @@
+_repo: Dream-Town_29193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slesar, Henry
+    birthdate: 1927
+    deathdate: 2002
+    gutenberg_agent_id: '28398'
+    url: http://www.gutenberg.org/2009/agents/28398
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
+description: The woman in the doorway looked so harmless. Who was to tell she had
+  some rather startling interests?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29193'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PS'
+title: Dream Town
+url: http://www.gutenberg.org/ebooks/29193
